@@ -1,0 +1,46 @@
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\DALFactory.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\IDAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\DALFactory.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\IDAL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\Models.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\BLL\obj\Debug\BLL.pdb
+G:\ChildPro\BLL\bin\Debug\BLL.dll
+G:\ChildPro\BLL\bin\Debug\BLL.pdb
+G:\ChildPro\BLL\bin\Debug\DALFactory.dll
+G:\ChildPro\BLL\bin\Debug\IDAL.dll
+G:\ChildPro\BLL\bin\Debug\Models.dll
+G:\ChildPro\BLL\bin\Debug\EntityFramework.dll
+G:\ChildPro\BLL\bin\Debug\DALFactory.pdb
+G:\ChildPro\BLL\bin\Debug\IDAL.pdb
+G:\ChildPro\BLL\bin\Debug\Models.pdb
+G:\ChildPro\BLL\bin\Debug\Models.dll.config
+G:\ChildPro\BLL\bin\Debug\EntityFramework.xml
+G:\ChildPro\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\ChildPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\ChildPro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\ChildPro\BLL\obj\Debug\BLL.dll
+G:\ChildPro\BLL\obj\Debug\BLL.pdb
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\BLL.dll
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\BLL.pdb
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\DALFactory.dll
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\IDAL.dll
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\Models.dll
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\EntityFramework.dll
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\DALFactory.pdb
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\IDAL.pdb
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\Models.pdb
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\Models.dll.config
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\EntityFramework.xml
+D:\A 项目答辩\ChildPro\BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\A 项目答辩\ChildPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\A 项目答辩\ChildPro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\A 项目答辩\ChildPro\BLL\obj\Debug\BLL.dll
+D:\A 项目答辩\ChildPro\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\IDAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\IDAL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\Models.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\obj\Debug\IDAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\IDAL\obj\Debug\IDAL.pdb
+G:\ChildPro\IDAL\bin\Debug\IDAL.dll
+G:\ChildPro\IDAL\bin\Debug\IDAL.pdb
+G:\ChildPro\IDAL\bin\Debug\Models.dll
+G:\ChildPro\IDAL\bin\Debug\EntityFramework.dll
+G:\ChildPro\IDAL\bin\Debug\Models.pdb
+G:\ChildPro\IDAL\bin\Debug\Models.dll.config
+G:\ChildPro\IDAL\bin\Debug\EntityFramework.xml
+G:\ChildPro\IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\ChildPro\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+G:\ChildPro\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+G:\ChildPro\IDAL\obj\Debug\IDAL.dll
+G:\ChildPro\IDAL\obj\Debug\IDAL.pdb
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\IDAL.dll
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\IDAL.pdb
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\Models.dll
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\EntityFramework.dll
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\Models.pdb
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\Models.dll.config
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\EntityFramework.xml
+D:\A 项目答辩\ChildPro\IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\A 项目答辩\ChildPro\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\A 项目答辩\ChildPro\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\A 项目答辩\ChildPro\IDAL\obj\Debug\IDAL.dll
+D:\A 项目答辩\ChildPro\IDAL\obj\Debug\IDAL.pdb

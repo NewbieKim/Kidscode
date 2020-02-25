@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Models.Teacher>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @Html.ActionLink("添加", "Add", "Books")
+    <div>
+        <table border="1">
+            <tr>
+                <th>编号</th>
+                <th>名字</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>@item.TeacherID</th>
+                    <th>@item.TeacherName</th>
+                    
+                    @*<th>@Html.ActionLink("修改","Edit","BookCrud",new {id = item.book_no }))</th>*@
+                    @*<th><a href="/Books/Edit/@item.BookId">修改</a></th>
+                    <th><a href="/Books/Delect/@item.BookId">删除</a></th>*@
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
+

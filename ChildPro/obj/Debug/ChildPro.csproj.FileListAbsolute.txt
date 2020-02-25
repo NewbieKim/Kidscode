@@ -1,0 +1,213 @@
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\csc.exe
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\ChildPro.dll.config
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\ChildPro.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\ChildPro.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\BLL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\DAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\DALFactory.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\EntityFramework.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\IDAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\PagedList.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\PagedList.Mvc.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\WebActivator.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\BLL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\DALFactory.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\DAL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\IDAL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Models.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\EntityFramework.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Common.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Mvc.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\PagedList.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\PagedList.Mvc.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\obj\Debug\ChildPro.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\obj\Debug\ChildPro.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\ChildPro\obj\Debug\ChildPro.pdb
+G:\ChildPro\ChildPro\bin\roslyn\csc.exe
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ChildPro\ChildPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ChildPro\ChildPro\bin\roslyn\System.Collections.Immutable.dll
+G:\ChildPro\ChildPro\bin\roslyn\System.Reflection.Metadata.dll
+G:\ChildPro\ChildPro\bin\roslyn\vbc.exe
+G:\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe
+G:\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe.config
+G:\ChildPro\ChildPro\bin\ChildPro.dll.config
+G:\ChildPro\ChildPro\bin\ChildPro.dll
+G:\ChildPro\ChildPro\bin\ChildPro.pdb
+G:\ChildPro\ChildPro\bin\BLL.dll
+G:\ChildPro\ChildPro\bin\DAL.dll
+G:\ChildPro\ChildPro\bin\DALFactory.dll
+G:\ChildPro\ChildPro\bin\EntityFramework.dll
+G:\ChildPro\ChildPro\bin\EntityFramework.SqlServer.dll
+G:\ChildPro\ChildPro\bin\IDAL.dll
+G:\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ChildPro\ChildPro\bin\Microsoft.Web.Infrastructure.dll
+G:\ChildPro\ChildPro\bin\Models.dll
+G:\ChildPro\ChildPro\bin\Ninject.dll
+G:\ChildPro\ChildPro\bin\Ninject.Web.Common.dll
+G:\ChildPro\ChildPro\bin\Ninject.Web.Mvc.dll
+G:\ChildPro\ChildPro\bin\PagedList.dll
+G:\ChildPro\ChildPro\bin\PagedList.Mvc.dll
+G:\ChildPro\ChildPro\bin\System.Web.Helpers.dll
+G:\ChildPro\ChildPro\bin\System.Web.Mvc.dll
+G:\ChildPro\ChildPro\bin\System.Web.Razor.dll
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.dll
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.dll
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.dll
+G:\ChildPro\ChildPro\bin\WebActivator.dll
+G:\ChildPro\ChildPro\bin\BLL.pdb
+G:\ChildPro\ChildPro\bin\DALFactory.pdb
+G:\ChildPro\ChildPro\bin\DAL.pdb
+G:\ChildPro\ChildPro\bin\DAL.dll.config
+G:\ChildPro\ChildPro\bin\IDAL.pdb
+G:\ChildPro\ChildPro\bin\Models.pdb
+G:\ChildPro\ChildPro\bin\Models.dll.config
+G:\ChildPro\ChildPro\bin\EntityFramework.xml
+G:\ChildPro\ChildPro\bin\EntityFramework.SqlServer.xml
+G:\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ChildPro\ChildPro\bin\Ninject.pdb
+G:\ChildPro\ChildPro\bin\Ninject.xml
+G:\ChildPro\ChildPro\bin\Ninject.Web.Common.pdb
+G:\ChildPro\ChildPro\bin\Ninject.Web.Common.xml
+G:\ChildPro\ChildPro\bin\Ninject.Web.Mvc.pdb
+G:\ChildPro\ChildPro\bin\Ninject.Web.Mvc.xml
+G:\ChildPro\ChildPro\bin\PagedList.xml
+G:\ChildPro\ChildPro\bin\PagedList.Mvc.xml
+G:\ChildPro\ChildPro\bin\System.Web.Razor.xml
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.xml
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.xml
+G:\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.xml
+G:\ChildPro\ChildPro\bin\System.Web.Helpers.xml
+G:\ChildPro\ChildPro\bin\System.Web.Mvc.xml
+G:\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\ChildPro\ChildPro\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\ChildPro\ChildPro\obj\Debug\ChildPro.csprojResolveAssemblyReference.cache
+G:\ChildPro\ChildPro\obj\Debug\ChildPro.csproj.CoreCompileInputs.cache
+G:\ChildPro\ChildPro\obj\Debug\ChildPro.dll
+G:\ChildPro\ChildPro\obj\Debug\ChildPro.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\csc.exe
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\System.Collections.Immutable.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\vbc.exe
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe
+D:\A 项目答辩\ChildPro\ChildPro\bin\roslyn\VBCSCompiler.exe.config
+D:\A 项目答辩\ChildPro\ChildPro\bin\ChildPro.dll.config
+D:\A 项目答辩\ChildPro\ChildPro\bin\ChildPro.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\ChildPro.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\BLL.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\DAL.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\DALFactory.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\EntityFramework.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\EntityFramework.SqlServer.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\IDAL.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Microsoft.Web.Infrastructure.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Models.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Common.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Mvc.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\PagedList.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\PagedList.Mvc.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Helpers.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Mvc.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Razor.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\WebActivator.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\BLL.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\DALFactory.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\DAL.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\DAL.dll.config
+D:\A 项目答辩\ChildPro\ChildPro\bin\IDAL.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\Models.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\Models.dll.config
+D:\A 项目答辩\ChildPro\ChildPro\bin\EntityFramework.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\EntityFramework.SqlServer.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Common.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Common.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Mvc.pdb
+D:\A 项目答辩\ChildPro\ChildPro\bin\Ninject.Web.Mvc.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\PagedList.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\PagedList.Mvc.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Razor.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.Deployment.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Webpages.Razor.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Helpers.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\System.Web.Mvc.xml
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\A 项目答辩\ChildPro\ChildPro\obj\Debug\ChildPro.csprojResolveAssemblyReference.cache
+D:\A 项目答辩\ChildPro\ChildPro\obj\Debug\ChildPro.csproj.CoreCompileInputs.cache
+D:\A 项目答辩\ChildPro\ChildPro\obj\Debug\ChildPro.dll
+D:\A 项目答辩\ChildPro\ChildPro\obj\Debug\ChildPro.pdb

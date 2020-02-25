@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\Models.dll.config
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\Models.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\obj\Debug\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\Models\obj\Debug\Models.pdb
+G:\ChildPro\Models\bin\Debug\Models.dll.config
+G:\ChildPro\Models\bin\Debug\Models.dll
+G:\ChildPro\Models\bin\Debug\Models.pdb
+G:\ChildPro\Models\bin\Debug\EntityFramework.dll
+G:\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\ChildPro\Models\bin\Debug\EntityFramework.xml
+G:\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\ChildPro\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\ChildPro\Models\obj\Debug\Models.dll
+G:\ChildPro\Models\obj\Debug\Models.pdb
+G:\ChildPro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\A 项目答辩\ChildPro\Models\bin\Debug\Models.dll.config
+D:\A 项目答辩\ChildPro\Models\bin\Debug\Models.dll
+D:\A 项目答辩\ChildPro\Models\bin\Debug\Models.pdb
+D:\A 项目答辩\ChildPro\Models\bin\Debug\EntityFramework.dll
+D:\A 项目答辩\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\A 项目答辩\ChildPro\Models\bin\Debug\EntityFramework.xml
+D:\A 项目答辩\ChildPro\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\A 项目答辩\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\A 项目答辩\ChildPro\Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\A 项目答辩\ChildPro\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\A 项目答辩\ChildPro\Models\obj\Debug\Models.dll
+D:\A 项目答辩\ChildPro\Models\obj\Debug\Models.pdb

@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\IDAL.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\Models.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\Models.pdb
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\User\Desktop\少儿编程阿\ChildPro\DALFactory\obj\Debug\DALFactory.pdb
+G:\ChildPro\DALFactory\bin\Debug\DALFactory.dll
+G:\ChildPro\DALFactory\bin\Debug\DALFactory.pdb
+G:\ChildPro\DALFactory\bin\Debug\IDAL.dll
+G:\ChildPro\DALFactory\bin\Debug\Models.dll
+G:\ChildPro\DALFactory\bin\Debug\EntityFramework.dll
+G:\ChildPro\DALFactory\bin\Debug\IDAL.pdb
+G:\ChildPro\DALFactory\bin\Debug\Models.pdb
+G:\ChildPro\DALFactory\bin\Debug\Models.dll.config
+G:\ChildPro\DALFactory\bin\Debug\EntityFramework.xml
+G:\ChildPro\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\ChildPro\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+G:\ChildPro\DALFactory\obj\Debug\DALFactory.csproj.CoreCompileInputs.cache
+G:\ChildPro\DALFactory\obj\Debug\DALFactory.dll
+G:\ChildPro\DALFactory\obj\Debug\DALFactory.pdb
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\DALFactory.dll
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\DALFactory.pdb
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\IDAL.dll
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\Models.dll
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\EntityFramework.dll
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\IDAL.pdb
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\Models.pdb
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\Models.dll.config
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\EntityFramework.xml
+D:\A 项目答辩\ChildPro\DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\A 项目答辩\ChildPro\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\A 项目答辩\ChildPro\DALFactory\obj\Debug\DALFactory.csproj.CoreCompileInputs.cache
+D:\A 项目答辩\ChildPro\DALFactory\obj\Debug\DALFactory.dll
+D:\A 项目答辩\ChildPro\DALFactory\obj\Debug\DALFactory.pdb
