@@ -5,7 +5,7 @@
 3.实现了基本的登录注册，课程内容分类别展示、评论回复课程、收藏或取消课程；
 4.教师管理课程(实现对课程的增删改查)、通过项目打包实现在线scratch编程；
 
-项目效果图片：
+项目效果图：
 
 ![Alt text](https://github.com/NewbieKim/Kidscode/raw/master/ChildPro/kidscode/kidscode1.png)
 ![Alt text](https://github.com/NewbieKim/Kidscode/raw/master/ChildPro/kidscode/kidscode2.png)
